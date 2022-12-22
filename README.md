@@ -1,3 +1,3 @@
-#Collab’s Realtime Code Editor
+# Collab’s Realtime Code Editor
 
-##A hassle free code sharing platform.
+## A hassle free code sharing platform.
